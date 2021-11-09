@@ -1,0 +1,2 @@
+Jenkins - SSH认证方式拉取Git代码
+https://www.jianshu.com/p/3ce69c25a92b

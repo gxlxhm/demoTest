@@ -134,7 +134,7 @@ public class DistributeLockDemo implements Watcher {
         System.out.println("Thread " + myZonode + "获取锁");
         return true;
     }
-
+    /*
     public static void main(String[] args) {
         ExecutorService executorService = Executors.newCachedThreadPool();
 //        final Semaphore semaphore = new Semaphore(10);
@@ -146,6 +146,6 @@ public class DistributeLockDemo implements Watcher {
 //                          Thread.sleep(3000);
             distributeLockDemo.unlock();
         }
-    }
+    }*/
 
 }
